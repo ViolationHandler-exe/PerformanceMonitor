@@ -1,4 +1,4 @@
-# Performance-Monitor
+# PerformanceMonitor
 Performance Monitor is a plugin for the video game Rust that is used to monitor your servers entities and plugins. It is originally from [uMod](https://umod.org/plugins/performance-monitor#license) with optimizations. This code now should run and figure everything out in under 5 seconds. Typically it takes even less than that, ***being around less than 1 second***.
 
 It took 22 minutes on a fresh 4500 sized server. On a battlefield 3 years ago it apparently took 2 days. It now takes less than a second typically. It has been exponentially optimized and is actually usable. However, I am not sure whether you would find the data useful, if you do, then go ahead and use it, if not, then don't.
